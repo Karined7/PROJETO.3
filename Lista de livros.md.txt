@@ -1,0 +1,3 @@
+Listar livros para leitura em um ano
+utilizar caixas de marcação para leituras finalizadas
+sistema de avaliação e nota para livros lidos.
